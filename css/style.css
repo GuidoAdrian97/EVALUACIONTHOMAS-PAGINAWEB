@@ -1,0 +1,11 @@
+
+#Degradado{
+ background: rgba(0,238,255,0.6);
+background: -moz-linear-gradient(top, rgba(0,238,255,0.6) 0%, rgba(0,238,255,0.63) 7%, rgba(40,198,219,0.67) 18%, rgba(87,153,235,0.73) 33%, rgba(123,27,171,0.78) 45%, rgba(255,0,217,0.81) 52%, rgba(240,5,165,0.84) 60%, rgba(179,22,155,0.9) 76%, rgba(28,28,28,0.96) 91%, rgba(19,19,19,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,238,255,0.6)), color-stop(7%, rgba(0,238,255,0.63)), color-stop(18%, rgba(40,198,219,0.67)), color-stop(33%, rgba(87,153,235,0.73)), color-stop(45%, rgba(123,27,171,0.78)), color-stop(52%, rgba(255,0,217,0.81)), color-stop(60%, rgba(240,5,165,0.84)), color-stop(76%, rgba(179,22,155,0.9)), color-stop(91%, rgba(28,28,28,0.96)), color-stop(100%, rgba(19,19,19,1)));
+background: -webkit-linear-gradient(top, rgba(0,238,255,0.6) 0%, rgba(0,238,255,0.63) 7%, rgba(40,198,219,0.67) 18%, rgba(87,153,235,0.73) 33%, rgba(123,27,171,0.78) 45%, rgba(255,0,217,0.81) 52%, rgba(240,5,165,0.84) 60%, rgba(179,22,155,0.9) 76%, rgba(28,28,28,0.96) 91%, rgba(19,19,19,1) 100%);
+background: -o-linear-gradient(top, rgba(0,238,255,0.6) 0%, rgba(0,238,255,0.63) 7%, rgba(40,198,219,0.67) 18%, rgba(87,153,235,0.73) 33%, rgba(123,27,171,0.78) 45%, rgba(255,0,217,0.81) 52%, rgba(240,5,165,0.84) 60%, rgba(179,22,155,0.9) 76%, rgba(28,28,28,0.96) 91%, rgba(19,19,19,1) 100%);
+background: -ms-linear-gradient(top, rgba(0,238,255,0.6) 0%, rgba(0,238,255,0.63) 7%, rgba(40,198,219,0.67) 18%, rgba(87,153,235,0.73) 33%, rgba(123,27,171,0.78) 45%, rgba(255,0,217,0.81) 52%, rgba(240,5,165,0.84) 60%, rgba(179,22,155,0.9) 76%, rgba(28,28,28,0.96) 91%, rgba(19,19,19,1) 100%);
+background: linear-gradient(to bottom, rgba(0,238,255,0.6) 0%, rgba(0,238,255,0.63) 7%, rgba(40,198,219,0.67) 18%, rgba(87,153,235,0.73) 33%, rgba(123,27,171,0.78) 45%, rgba(255,0,217,0.81) 52%, rgba(240,5,165,0.84) 60%, rgba(179,22,155,0.9) 76%, rgba(28,28,28,0.96) 91%, rgba(19,19,19,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00eeff', endColorstr='#131313', GradientType=0 );
+}
